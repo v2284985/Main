@@ -71,7 +71,7 @@ Refer to the requirements.txt file for more details.
 If you have any questions, suggestions, or need support, feel free to reach out:
 For collaboration feel free to contact.
 
-Email: devkumarmahto204@outlook.com
+Email:v2284985@gmail.com
 
 ### License 📄
 This project is licensed under the MIT License. See the LICENSE file for details.
