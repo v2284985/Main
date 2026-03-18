@@ -1,0 +1,10 @@
+# System Dependencies
+subfinder
+amass
+golang
+
+# Go Modules
+github.com/tomnomnom/httprobe@latest
+github.com/tomnomnom/waybackurls@latest
+github.com/Emoe/kxss@latest
+github.com/tomnomnom/assetfinder@latest
